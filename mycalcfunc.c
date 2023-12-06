@@ -6,6 +6,7 @@ int main()
     int num2;
     char op;
     int ans;
+    printf("Welcome to DJokerJay calculation with function(c)\n");
     printf("Input Number 1:");
     scanf("%d", &num1);
 
